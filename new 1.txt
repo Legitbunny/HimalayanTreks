@@ -1,0 +1,8 @@
+#kashmir, #chandrashila, #sandakphu, #gaumukh{
+    position: absolute;
+    background-color: white;
+    padding: 0.5rem 2.5rem;
+    top: 42%;
+    left: 57%;
+    transform: translateX(-50%) translateX(-20%);
+}
