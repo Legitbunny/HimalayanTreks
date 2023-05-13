@@ -1,2 +1,2 @@
 # HimalayanTreks
-Parallax Effect Implementation
+Parallax Effect Implementation using HTML and CSS
